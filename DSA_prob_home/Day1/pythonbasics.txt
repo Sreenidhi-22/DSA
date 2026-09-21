@@ -1,0 +1,9 @@
+Python basics:
+
+1. Input format
+2.Output format
+3.Decimal formatting
+4.Data types
+5.Operator Precedence
+6.Associativity
+7.Exception handling
